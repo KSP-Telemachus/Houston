@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoustonHTTPAPI", "HoustonHTTPAPI\HoustonHTTPAPI.csproj", "{06C2A175-A88D-47FD-88F3-E65A5995E464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06C2A175-A88D-47FD-88F3-E65A5995E464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C2A175-A88D-47FD-88F3-E65A5995E464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C2A175-A88D-47FD-88F3-E65A5995E464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C2A175-A88D-47FD-88F3-E65A5995E464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
