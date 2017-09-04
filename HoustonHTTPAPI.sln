@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoustonHTTPAPI", "HoustonHTTPAPI\HoustonHTTPAPI.csproj", "{06C2A175-A88D-47FD-88F3-E65A5995E464}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleServer", "ExampleServer\ExampleServer.csproj", "{4368F236-3E49-4DE2-923E-ECBD234514DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +9,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{06C2A175-A88D-47FD-88F3-E65A5995E464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{06C2A175-A88D-47FD-88F3-E65A5995E464}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{06C2A175-A88D-47FD-88F3-E65A5995E464}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{06C2A175-A88D-47FD-88F3-E65A5995E464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4368F236-3E49-4DE2-923E-ECBD234514DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4368F236-3E49-4DE2-923E-ECBD234514DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4368F236-3E49-4DE2-923E-ECBD234514DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4368F236-3E49-4DE2-923E-ECBD234514DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
