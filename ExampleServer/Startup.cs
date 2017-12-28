@@ -14,7 +14,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using HTTPServer;
 
-namespace ExampleServer
+namespace ExampleCLI
 {
 	public class Startup
 	{
@@ -89,6 +89,7 @@ namespace ExampleServer
             //.UseContentRoot(Directory.GetCurrentDirectory())
             //.UseStartup<Startup>()
             //.Build();
+            Console.WriteLine("running from CLI");
             WebServer server = new WebServer();
 			server.host.Run();
 		}

@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleServer", "ExampleServer\ExampleServer.csproj", "{4368F236-3E49-4DE2-923E-ECBD234514DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleCLI", "ExampleServer\ExampleCLI.csproj", "{4368F236-3E49-4DE2-923E-ECBD234514DD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPServer", "HTTPServer\HTTPServer.csproj", "{E34FE581-47F5-41E4-9740-6BCC7BEC77B8}"
 EndProject
