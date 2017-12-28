@@ -38,3 +38,6 @@ Thumbs.db
 
 # dotCover
 *.dotCover
+KSPDLLs/Assembly-CSharp-firstpass.dll
+KSPDLLs/Assembly-CSharp.dll
+KSPDLLs/UnityEngine.dll
